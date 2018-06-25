@@ -5,7 +5,7 @@ description: This is a repository of data.gov.au APIs, self-contained as a Githu
   operations.
 image: http://template.streamdata.gallery/assets/data-gov-au.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://data-gov-au.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
