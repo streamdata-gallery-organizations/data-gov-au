@@ -27,8 +27,8 @@ image: ""
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Data.Gov.au
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-06-26"
+modified: "2018-06-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/data-gov-au/master/_listings/data-gov-au/apis.md
 specificationVersion: "0.14"
 apis:
